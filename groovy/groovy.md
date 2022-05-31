@@ -79,7 +79,7 @@ object DynamicRule {
         override def open(parameters: Configuration): Unit = {
             Class.forName("com.mysql.jdbc.Driver")
             val url = "jdbc:mysql://192.168.42.71:3306/test"
-            connection = DriverManager.getConnection(url, "root", "qvjjgGRuc5,i123")
+            connection = DriverManager.getConnection(url, "root", "password")
             statement = connection.createStatement()
             engine = new ScriptEngineManager().getEngineByName("groovy")
         }
