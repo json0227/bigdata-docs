@@ -4,3 +4,4 @@
 * **Hive**  
 * **Drools**  
 * **Groovy**  
+* **ClickHouse**  
