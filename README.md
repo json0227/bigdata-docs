@@ -6,3 +6,4 @@
 * **Groovy**  
 * **ClickHouse**  
 * **Doris**  
+* **Kafka**  
