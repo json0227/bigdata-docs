@@ -5,3 +5,5 @@
 * **Drools**  
 * **Groovy**  
 * **ClickHouse**  
+* **Doris**  
+* **Kafka**  
